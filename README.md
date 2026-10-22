@@ -25,3 +25,5 @@
 Priručnik piše [korisničko ime] u sklopu kolegija Akademsko i tehničko pisanje na Sveučilištu u Zadru, 2026./2027.
 
 [Jeste li koristili AI i za što? Ako niste: „U ovoj verziji nisam koristio/la AI.”]
+
+Dodaj ovaj tekst na kraj README.md datoteke
