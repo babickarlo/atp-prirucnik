@@ -10,7 +10,7 @@
 
 | Što | Koje |
 |---|---|
-| Operacijski sustav | macOS 27.0.1 Golden Gate |
+| Operacijski sustav | macOS 27.2 Golden Gate |
 | Uređivač koda | Visual Studio Code 1.142.0 |
 | Terminal | zsh |
 | Git | git version 2.54.0 (Apple Git-157) |
