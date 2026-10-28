@@ -79,3 +79,5 @@ ls
 ## Što dalje
 
 [Gdje čitatelj može naučiti više? Npr. priručnik Srca *Uvod u Linux*, poglavlja 2 i 3.]
+
+
