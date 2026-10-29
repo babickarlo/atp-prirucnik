@@ -15,6 +15,7 @@
 | Terminal | zsh |
 | Git | git version 2.54.0 (Apple Git-157) |
 | Python | 3.15 |
+| Pandoc | 3.13 |
 
 ## Sadržaj
 
