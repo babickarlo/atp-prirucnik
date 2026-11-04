@@ -20,6 +20,7 @@
 ## Sadržaj
 
 - [Prvi koraci u terminalu](docs/prvi-koraci-u-terminalu.md): tutorial, u izradi
+- [Prvi koraci s Pandocom](docs/prvi-koraci-s-pandocom.md): tutorial
 
 ## Autor i korištenje AI-a
 
