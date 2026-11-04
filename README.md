@@ -21,6 +21,7 @@
 
 - [Prvi koraci u terminalu](docs/prvi-koraci-u-terminalu.md): tutorial, u izradi
 - [Prvi koraci s Pandocom](docs/prvi-koraci-s-pandocom.md): tutorial
+- [Instalacija Python-a](docs/instalacija-pythona.md): tutorial
 
 ## Autor i korištenje AI-a
 
