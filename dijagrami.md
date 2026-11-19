@@ -66,3 +66,5 @@ flowchart TD
   F --> C
   E --> |Ne| C 
   ```
+
+  ![Na dijagramu je prikazan postupak predaje dokumenata u LMS sustavu Merlin](dijagram-predaja-datoteka-merlin.png)
